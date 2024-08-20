@@ -29,7 +29,7 @@ This is a movie recommendation system that recommends movies based on genres, ke
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/Movie-Recommendation-System.git
+   git clone https://github.com/Mohammed-Faazil-16/movie_recommendation_system.git
    cd Movie-Recommendation-System
    ```
 2. Install the required dependencies:
